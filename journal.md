@@ -13,6 +13,7 @@ I plan on doing a blog at some point, but I am not there yet. I’ll start by ge
 
 Right now I am using my MacBookAir’s built-in Notes App. I’ll move to a text editor later. MarkDown will work.
 
+
 #9/24/2024
 The Goal today is coming back to GIT. It should not be that difficult but it seems like I forgot everything. In the Python course I followed in 2020 Git wasn’t in the syllabus, so the last time I used it was before that. It’s been a long time. I remember the processes behind GIt and I think I know how it works but I don’t even remember commands like « git init ». A cheat sheet might be useful but right now I am beginning with the [w3c tutorial](https://www.w3schools.com/git/default.asp). 
 Also, I am going to use markdown with the text and Sublime text as an editor.
@@ -41,3 +42,8 @@ git branch
 git checkout 
 git merge 
 git branch -d 
+
+##Meanwhile...
+I am looking for a web developement course I could follow to improve my front-end skills and my portfolio. 
+There's the [Wev Developer Bootcamp 2024](https://www.udemy.com/course/the-web-developer-bootcamp/) on Udemy
+s
