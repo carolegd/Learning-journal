@@ -14,11 +14,11 @@ I plan on doing a blog at some point, but I am not there yet. I’ll start by ge
 Right now I am using my MacBookAir’s built-in Notes App. I’ll move to a text editor later. MarkDown will work.
 
 #9/24/2024
-The Goal today is coming back to GIT. It should not be that difficult but it seems like I forgot everything. In the Python course I followed in 2020 Git wasn’t in the syllabus, so the last time I used it was before that. It’s been a long time. I remember the processes behind GIt and I think I know how it works but I don’t even remember commands like « git init ». A cheat sheet might be useful but right now I am beginning with the w3c tutorial. 
+The Goal today is coming back to GIT. It should not be that difficult but it seems like I forgot everything. In the Python course I followed in 2020 Git wasn’t in the syllabus, so the last time I used it was before that. It’s been a long time. I remember the processes behind GIt and I think I know how it works but I don’t even remember commands like « git init ». A cheat sheet might be useful but right now I am beginning with the [w3c tutorial](https://www.w3schools.com/git/default.asp). 
 Also, I am going to use markdown with the text and Sublime text as an editor.
 
 Fun fact : I have also forgotten Vi : not that I mastered Vi before, but at least I knew the basics.
-This cheatsheet was useful : https://www2.seas.gwu.edu/~mems/ece215/reference/vi-cheatsheet.pdf
+This cheatsheet was useful : [Vi cheatsheet by universiry](https://www2.seas.gwu.edu/~mems/ece215/reference/vi-cheatsheet.pdf)
 
 #9/25/2024
 
@@ -35,4 +35,9 @@ git add
 git add --all 
 git commit -m "message"
 git command -help
-git help --all`
+git help --all
+git branch file
+git branch
+git checkout 
+git merge 
+git branch -d 
