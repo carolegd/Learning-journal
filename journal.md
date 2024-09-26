@@ -46,4 +46,17 @@ git branch -d
 ##Meanwhile...
 I am looking for a web developement course I could follow to improve my front-end skills and my portfolio. 
 There's the [Wev Developer Bootcamp 2024](https://www.udemy.com/course/the-web-developer-bootcamp/) on Udemy
-s
+
+
+#9/25/2024
+
+I had no ssh key so I had to generate one. It didn't occur to me that was the case since I've pushed to github before. Learning the theory of PGP and remembering the command for generating a key are two different things ^^
+I'll remember ssh-keygen forever. 
+At some point I've created an remote origin repo and then I couldn't use that name, so now I've pushed a repo calld orgin2. This is precisely why I hate copy-pasting commands I don't understand.
+
+ Commands : 
+git remote add orgin2 git@github.com:carolegd/Learning-journal.git
+git branch -M main
+git push -u origin2 main
+
+
